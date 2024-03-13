@@ -10,3 +10,7 @@ async function API() {
 }
 
 API();
+
+function reload() {
+    location.reload();
+}

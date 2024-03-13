@@ -1,4 +1,4 @@
 .object img {
-    width: 850px;
-    height: 850px;
+    max-width: 750px;
+    max-height: 750px;
 }
